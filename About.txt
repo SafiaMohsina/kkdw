@@ -1,0 +1,3 @@
+Name : Safia
+Course :BSCDS1
+It builds on Git, a distributed version control system, enabling efficient branching and merging workflows—even offline
